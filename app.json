@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "pages/search/search"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00b38a",
+    "navigationBarTitleText": "拉勾网",
+    "navigationBarTextStyle": "#fff"
+  },
+  "tabBar": {
+    "color": "#c2cfcc",
+    "selectedColor": "#00b38a",
+    "backgroundColor": "#f6f6f6",
+    "borderStyle": "#e8e8e8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/home_icon.png",
+        "selectedIconPath": "images/home_icon.png",
+        "text": "职位"
+      },
+      {
+        "pagePath": "pages/search/search",
+        "iconPath": "images/search.png",
+        "selectedIconPath": "images/search.png",
+        "text": "搜索"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "images/my.png",
+        "selectedIconPath": "images/my.png",
+        "text": "我的"
+      }
+    ]
+  }
+}
