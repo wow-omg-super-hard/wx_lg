@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "label-type-list": "components/label-type-list/LabelTypeList"            
+  }
+}
